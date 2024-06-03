@@ -26,14 +26,16 @@ import python from "./tech/python.png";
 
 import regology from "./company/regology.png";
 import bhel from "./company/bhel.png";
+import blockforge from "./company/blockforge.jpg";
+import udaan from "./company/udaan.png";
 
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import articleSumz from "./articleSumz.png";
 import dalleClone from "./dalleClone.png";
 import keeperClone from "./keeperClone.png";
+import matrixmarble from "./matrixmarble.png";
 
 export {
   adipfp,
@@ -60,12 +62,14 @@ export {
   threejs,
   cplusplus,
   python,
+  blockforge,
+  udaan,
   regology,
   bhel,
   carrent,
   jobit,
-  tripguide,
   articleSumz,
   dalleClone,
-  keeperClone
+  keeperClone,
+  matrixmarble
 };
